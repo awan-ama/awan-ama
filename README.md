@@ -8,6 +8,7 @@ I'm in Bangkit Academy 2024 Batch 2 on Android Learning Path!
 ## Programming Languages
 - Kotlin
 - Lua
+  
 I only write languages I'm interested in/currently working on with; no fillers. 
 
 
